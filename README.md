@@ -8,7 +8,7 @@
 
 ## Установка
 
-composer require dudkin_iv/otus-composer-package
+composer require dudkin_id/otus_composer_package
 
 ## Использование
 
