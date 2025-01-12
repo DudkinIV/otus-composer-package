@@ -1,6 +1,6 @@
-# Процессор строк
+# Процессор чисел
 
-Краткое описание пакета
+Помощь с числами. Например нахождения максимума из 2 чисел;
 
 ## Требования
 
@@ -15,4 +15,4 @@ composer require dudkin_id/otus_composer_package
 <?php  
   
 $processor = new NumberProcessor();  
-echo $processor->max(2, 5)' // 5
+echo $processor->max(2, 5); // 5
