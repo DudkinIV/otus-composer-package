@@ -8,11 +8,11 @@
 
 ## Установка
 
-composer require dmitry-kirillov/otus-composer-package
+composer require dudkin_iv/otus-composer-package
 
 ## Использование
 
 <?php  
   
-$processor = new StringProcessor();  
-echo $processor->getLength('my string')' // 9
+$processor = new NumberProcessor();  
+echo $processor->max(2, 5)' // 5
