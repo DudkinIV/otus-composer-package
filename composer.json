@@ -1,0 +1,12 @@
+{
+    "name": "dudkin_id/otus_composer_package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DudkinId\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
